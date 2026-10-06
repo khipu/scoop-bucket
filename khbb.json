@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/khipu/khbb/releases/download/v0.1.0/khbb_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/khipu/khbb/releases/download/v0.1.1/khbb_0.1.1_windows_amd64.zip",
             "bin": [
                 "khbb.exe"
             ],
-            "hash": "2ad0da7daaa4b606f59cf1f942326c753b2aa01b63544b6a4b7a494aa3284fd2"
+            "hash": "677ed4cdf5d300bb9f6e9ca4a2a1078dc43475a9d440a35cd3e32dc86a26a030"
         },
         "arm64": {
-            "url": "https://github.com/khipu/khbb/releases/download/v0.1.0/khbb_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/khipu/khbb/releases/download/v0.1.1/khbb_0.1.1_windows_arm64.zip",
             "bin": [
                 "khbb.exe"
             ],
-            "hash": "55db9b3eb106aad4344f5344a3d3d4b5d11c00844d91ef591b553787f57b628b"
+            "hash": "d16f31b042911025aaa3fe8ca0ff305b1ea631cf4fc775c85efaac4986f1b690"
         }
     },
     "homepage": "https://github.com/khipu/khbb",
